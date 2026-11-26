@@ -1,0 +1,74 @@
+[
+  {
+    "id": "npc_baine",
+    "name": "卡爾・鐵蹄",
+    "race": "牛頭人",
+    "class": "戰士",
+    "role": "tank",
+    "level": 3,
+    "personality": "沉穩可靠、喜歡用盾牌頂在最前面，語氣厚重帶點幽默"
+  },
+  {
+    "id": "npc_aerie",
+    "name": "艾莉亞・星語",
+    "race": "夜精靈",
+    "class": "牧師",
+    "role": "healer",
+    "level": 3,
+    "personality": "冷靜細心、重視團隊走位與血線安全，偶爾會吐槽衝太快的隊友"
+  },
+  {
+    "id": "npc_kael",
+    "name": "凱爾・烈焰",
+    "race": "人類",
+    "class": "法師",
+    "role": "dps",
+    "level": 3,
+    "personality": "自信愛秀法術、追求高額傷害，但容易一開打就火力全開"
+  },
+  {
+    "id": "npc_zul",
+    "name": "祖爾・風行",
+    "race": "獸人",
+    "class": "獵人",
+    "role": "dps",
+    "level": 2,
+    "personality": "直率敏捷、擅長控場與遠程點名，對戰利品分配很敏銳"
+  },
+  {
+    "id": "npc_thalia",
+    "name": "塔莉亞・晨光",
+    "race": "人類",
+    "class": "牧師",
+    "role": "healer",
+    "level": 2,
+    "personality": "溫和樂觀、擅長安定軍心，遇到危機時會冷靜喊出戰術指令"
+  },
+  {
+    "id": "npc_garro",
+    "name": "格羅・裂石",
+    "race": "獸人",
+    "class": "戰士",
+    "role": "tank",
+    "level": 2,
+    "personality": "戰意高昂、把每次戰鬥都當成榮耀試煉，嘲諷能力很強"
+  },
+  {
+    "id": "npc_lyra",
+    "name": "萊拉・霜刃",
+    "race": "夜精靈",
+    "class": "法師",
+    "role": "dps",
+    "level": 3,
+    "personality": "理性敏銳、偏好冰霜控場與精準打擊，喜歡先觀察首領機制"
+  },
+  {
+    "id": "npc_rok",
+    "name": "洛克・荒野",
+    "race": "牛頭人",
+    "class": "獵人",
+    "role": "dps",
+    "level": 3,
+    "personality": "寡言踏實、熟悉地形與追蹤，總能在關鍵時刻補上一箭"
+  }
+]

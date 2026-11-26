@@ -1,0 +1,100 @@
+{
+  "races": {
+    "human": {
+      "name_zh": "人類",
+      "faction": "聯盟",
+      "trait": "外交敏銳：任務經驗值與聲望理解度加成",
+      "exp_bonus": 0.15
+    },
+    "night_elf": {
+      "name_zh": "夜精靈",
+      "faction": "聯盟",
+      "trait": "影遁夜行：野外遭遇閃避與偵察優勢",
+      "evasion_bonus": 0.15
+    },
+    "orc": {
+      "name_zh": "獸人",
+      "faction": "部落",
+      "trait": "血性狂怒：攻擊與物理壓制力提升",
+      "attack_bonus": 0.15
+    },
+    "tauren": {
+      "name_zh": "牛頭人",
+      "faction": "部落",
+      "trait": "踏地堅韌：最大生命值與抗打擊能力提升",
+      "hp_bonus": 30
+    }
+  },
+  "classes": {
+    "warrior": {
+      "name_zh": "戰士",
+      "default_role": "tank",
+      "available_roles": [
+        "tank",
+        "dps"
+      ],
+      "base_hp": 140,
+      "base_atk": 22,
+      "starter_skills": [
+        "英勇打擊",
+        "衝鋒"
+      ],
+      "unlock_skills_by_level": {
+        "2": "破甲攻擊",
+        "3": "盾牌格擋"
+      }
+    },
+    "priest": {
+      "name_zh": "牧師",
+      "default_role": "healer",
+      "available_roles": [
+        "healer",
+        "dps"
+      ],
+      "base_hp": 100,
+      "base_atk": 16,
+      "starter_skills": [
+        "快速治療",
+        "真言術：盾"
+      ],
+      "unlock_skills_by_level": {
+        "2": "暗言術：痛",
+        "3": "群體復甦"
+      }
+    },
+    "mage": {
+      "name_zh": "法師",
+      "default_role": "dps",
+      "available_roles": [
+        "dps"
+      ],
+      "base_hp": 95,
+      "base_atk": 28,
+      "starter_skills": [
+        "火球術",
+        "冰霜新星"
+      ],
+      "unlock_skills_by_level": {
+        "2": "魔爆術",
+        "3": "秘法衝擊"
+      }
+    },
+    "hunter": {
+      "name_zh": "獵人",
+      "default_role": "dps",
+      "available_roles": [
+        "dps"
+      ],
+      "base_hp": 115,
+      "base_atk": 25,
+      "starter_skills": [
+        "穩固射擊",
+        "震盪射擊"
+      ],
+      "unlock_skills_by_level": {
+        "2": "多重射擊",
+        "3": "野獸呼喚"
+      }
+    }
+  }
+}

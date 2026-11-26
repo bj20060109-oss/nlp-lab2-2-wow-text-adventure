@@ -1,0 +1,80 @@
+{
+  "zones_by_race": {
+    "human": {
+      "faction": "聯盟",
+      "zone_name": "艾爾文森林・北郡修道院外圍",
+      "description": "陽光穿過橡樹林灑在碎石小徑上，修道院附近出現了蠢蠢欲動的狗頭人與林地野狼。",
+      "quests": [
+        {
+          "id": "q_kobold_candles",
+          "title": "奪回失竊的蠟燭",
+          "objective": "清理出沒在古礦道口的狗頭人斥候，確保補給線安全",
+          "exp_reward": 60
+        },
+        {
+          "id": "q_wolf_patrol",
+          "title": "林徑巡邏與野狼威脅",
+          "objective": "應對襲擊商旅的狂暴野狼，並回報林地異狀",
+          "exp_reward": 70
+        }
+      ]
+    },
+    "night_elf": {
+      "faction": "聯盟",
+      "zone_name": "泰達希爾・幽影谷",
+      "description": "銀月灑落在巨樹枝葉之間，古老林地裡竄出了腐化樹精與狂暴豹群，需要暗夜哨兵前去整頓。",
+      "quests": [
+        {
+          "id": "q_corrupted_treants",
+          "title": "淨化林間腐化樹精",
+          "objective": "安撫或擊退受暗影侵蝕的林地樹精，守護幽影谷的寧靜",
+          "exp_reward": 60
+        },
+        {
+          "id": "q_prowler_watch",
+          "title": "月光林徑哨站巡守",
+          "objective": "追蹤襲擊哨站的暗影獵豹，並回報林地異狀",
+          "exp_reward": 70
+        }
+      ]
+    },
+    "orc": {
+      "faction": "部落",
+      "zone_name": "杜洛塔・試煉谷前哨",
+      "description": "赤紅峽谷吹過乾燥熱風，前哨站外的野豬人與毒蠍正威脅著新兵的試煉之路。",
+      "quests": [
+        {
+          "id": "q_quillboar_raid",
+          "title": "擊退試煉谷野豬人",
+          "objective": "驅逐佔據水源處的野豬人掠奪者，守住前哨營地",
+          "exp_reward": 60
+        },
+        {
+          "id": "q_scorpid_venom",
+          "title": "收集毒蠍尾刺與偵察",
+          "objective": "處理峽谷深處的致命毒蠍，完成部落新兵實戰考核",
+          "exp_reward": 70
+        }
+      ]
+    },
+    "tauren": {
+      "faction": "部落",
+      "zone_name": "莫高雷・納拉其營地",
+      "description": "翠綠草原與風吹高崖交錯，納拉其營地周圍出現了偷襲平原科多獸與掠奪營地的平原陸行鳥。",
+      "quests": [
+        {
+          "id": "q_plainstrider_menace",
+          "title": "驅逐草原陸行鳥群",
+          "objective": "清理在納拉其營地附近搶奪糧草的平原陸行鳥，保護牧場安全",
+          "exp_reward": 60
+        },
+        {
+          "id": "q_cougar_threat",
+          "title": "高崖山獅與圖騰試煉",
+          "objective": "解決威脅營地牲畜的草原山獅，展現牛頭人勇士的沉穩力量",
+          "exp_reward": 70
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "dungeon_name": "影牙深淵・遺忘聖殿",
+  "recommended_composition": {
+    "tank": 1,
+    "healer": 1,
+    "dps": 3
+  },
+  "stages": [
+    {
+      "stage": 1,
+      "name": "前廳哨衛小隊",
+      "enemy_name": "影牙哨衛與喚靈祭司",
+      "enemy_hp": 180,
+      "enemy_atk": 18,
+      "mechanic": "祭司會嘗試替哨衛詠唱治療法術，小隊需要打斷或集火處理。"
+    },
+    {
+      "stage": 2,
+      "name": "迴廊看守者",
+      "enemy_name": "鐵甲看守者・莫格",
+      "enemy_hp": 240,
+      "enemy_atk": 24,
+      "mechanic": "每隔一回合會發動重擊與橫掃，考驗坦克減傷與補師抬血節奏。"
+    },
+    {
+      "stage": 3,
+      "name": "聖殿最終首領",
+      "enemy_name": "暮光大祭司・維爾薩",
+      "enemy_hp": 320,
+      "enemy_atk": 28,
+      "mechanic": "具備戰術適應能力：會根據先前戰鬥紀錄調整針對目標與法術抗性，並在低血量時進入狂暴階段。"
+    }
+  ]
+}

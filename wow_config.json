@@ -1,0 +1,6 @@
+{
+  "model": "gpt-5-nano",
+  "static_dir": ["corpora", "wow"],
+  "state_dir": ["wow_output", "state"],
+  "output_dir": ["wow_output"]
+}
