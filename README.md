@@ -1,5 +1,4 @@
-# nlp-lab2-2-wow-text-adventure
-# Azeroth Party Quest (Text-Based WoW Adventure)
+# nlp-lab2-2-wow-text-adventure (Text-Based WoW Adventure)
 
 A text-based *World of Warcraft* adventure game built for NLP Lab 2.2. Players create a character, complete starting-zone quests to level up and unlock skills, assemble a balanced 5-player party (1 Tank, 1 Healer, 3 DPS) with AI teammates, clear a three-stage dungeon, and receive an entertaining post-run review.
 
